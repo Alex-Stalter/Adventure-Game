@@ -1,6 +1,9 @@
 #include <iostream>
+#include "Run.h"
 
 int main() {
-    std::cout << "This better fucking work" << std::endl;
+    Run* x = new Run(5);
+    x->calculate();
+    std::cout <<x->answer()<< std::endl;
     return 0;
 }

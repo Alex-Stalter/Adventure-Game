@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Map.cpp">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Map.h">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Player.cpp">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Player.h">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Room.cpp">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Room.h">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Run.cpp">
+			<Option target="Adventure_Game"/>
+		</Unit>
+		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/Run.h">
+			<Option target="Adventure_Game"/>
+		</Unit>
 		<Unit filename="/Users/alexstalter/Desktop/Github/Adventure-Game/main.cpp">
 			<Option target="Adventure_Game"/>
 		</Unit>
