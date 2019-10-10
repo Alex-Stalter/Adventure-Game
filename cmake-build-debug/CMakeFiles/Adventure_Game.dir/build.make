@@ -70,17 +70,77 @@ CMakeFiles/Adventure_Game.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Adventure_Game.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alexstalter/Desktop/Github/Adventure-Game/main.cpp -o CMakeFiles/Adventure_Game.dir/main.cpp.s
 
+CMakeFiles/Adventure_Game.dir/Run.cpp.o: CMakeFiles/Adventure_Game.dir/flags.make
+CMakeFiles/Adventure_Game.dir/Run.cpp.o: ../Run.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Adventure_Game.dir/Run.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Adventure_Game.dir/Run.cpp.o -c /Users/alexstalter/Desktop/Github/Adventure-Game/Run.cpp
+
+CMakeFiles/Adventure_Game.dir/Run.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Adventure_Game.dir/Run.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alexstalter/Desktop/Github/Adventure-Game/Run.cpp > CMakeFiles/Adventure_Game.dir/Run.cpp.i
+
+CMakeFiles/Adventure_Game.dir/Run.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Adventure_Game.dir/Run.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alexstalter/Desktop/Github/Adventure-Game/Run.cpp -o CMakeFiles/Adventure_Game.dir/Run.cpp.s
+
+CMakeFiles/Adventure_Game.dir/Player.cpp.o: CMakeFiles/Adventure_Game.dir/flags.make
+CMakeFiles/Adventure_Game.dir/Player.cpp.o: ../Player.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Adventure_Game.dir/Player.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Adventure_Game.dir/Player.cpp.o -c /Users/alexstalter/Desktop/Github/Adventure-Game/Player.cpp
+
+CMakeFiles/Adventure_Game.dir/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Adventure_Game.dir/Player.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alexstalter/Desktop/Github/Adventure-Game/Player.cpp > CMakeFiles/Adventure_Game.dir/Player.cpp.i
+
+CMakeFiles/Adventure_Game.dir/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Adventure_Game.dir/Player.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alexstalter/Desktop/Github/Adventure-Game/Player.cpp -o CMakeFiles/Adventure_Game.dir/Player.cpp.s
+
+CMakeFiles/Adventure_Game.dir/Room.cpp.o: CMakeFiles/Adventure_Game.dir/flags.make
+CMakeFiles/Adventure_Game.dir/Room.cpp.o: ../Room.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Adventure_Game.dir/Room.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Adventure_Game.dir/Room.cpp.o -c /Users/alexstalter/Desktop/Github/Adventure-Game/Room.cpp
+
+CMakeFiles/Adventure_Game.dir/Room.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Adventure_Game.dir/Room.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alexstalter/Desktop/Github/Adventure-Game/Room.cpp > CMakeFiles/Adventure_Game.dir/Room.cpp.i
+
+CMakeFiles/Adventure_Game.dir/Room.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Adventure_Game.dir/Room.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alexstalter/Desktop/Github/Adventure-Game/Room.cpp -o CMakeFiles/Adventure_Game.dir/Room.cpp.s
+
+CMakeFiles/Adventure_Game.dir/Map.cpp.o: CMakeFiles/Adventure_Game.dir/flags.make
+CMakeFiles/Adventure_Game.dir/Map.cpp.o: ../Map.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Adventure_Game.dir/Map.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Adventure_Game.dir/Map.cpp.o -c /Users/alexstalter/Desktop/Github/Adventure-Game/Map.cpp
+
+CMakeFiles/Adventure_Game.dir/Map.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Adventure_Game.dir/Map.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alexstalter/Desktop/Github/Adventure-Game/Map.cpp > CMakeFiles/Adventure_Game.dir/Map.cpp.i
+
+CMakeFiles/Adventure_Game.dir/Map.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Adventure_Game.dir/Map.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alexstalter/Desktop/Github/Adventure-Game/Map.cpp -o CMakeFiles/Adventure_Game.dir/Map.cpp.s
+
 # Object files for target Adventure_Game
 Adventure_Game_OBJECTS = \
-"CMakeFiles/Adventure_Game.dir/main.cpp.o"
+"CMakeFiles/Adventure_Game.dir/main.cpp.o" \
+"CMakeFiles/Adventure_Game.dir/Run.cpp.o" \
+"CMakeFiles/Adventure_Game.dir/Player.cpp.o" \
+"CMakeFiles/Adventure_Game.dir/Room.cpp.o" \
+"CMakeFiles/Adventure_Game.dir/Map.cpp.o"
 
 # External object files for target Adventure_Game
 Adventure_Game_EXTERNAL_OBJECTS =
 
 Adventure_Game: CMakeFiles/Adventure_Game.dir/main.cpp.o
+Adventure_Game: CMakeFiles/Adventure_Game.dir/Run.cpp.o
+Adventure_Game: CMakeFiles/Adventure_Game.dir/Player.cpp.o
+Adventure_Game: CMakeFiles/Adventure_Game.dir/Room.cpp.o
+Adventure_Game: CMakeFiles/Adventure_Game.dir/Map.cpp.o
 Adventure_Game: CMakeFiles/Adventure_Game.dir/build.make
 Adventure_Game: CMakeFiles/Adventure_Game.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Adventure_Game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Adventure_Game"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Adventure_Game.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

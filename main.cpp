@@ -1,6 +1,6 @@
 #include <iostream>
+#include "Run.h"
 
 int main() {
-    std::cout << "This better fucking work" << std::endl;
-    return 0;
+    Run();
 }

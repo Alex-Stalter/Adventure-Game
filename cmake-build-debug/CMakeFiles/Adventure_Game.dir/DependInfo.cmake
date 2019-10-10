@@ -4,6 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/alexstalter/Desktop/Github/Adventure-Game/Map.cpp" "/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles/Adventure_Game.dir/Map.cpp.o"
+  "/Users/alexstalter/Desktop/Github/Adventure-Game/Player.cpp" "/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles/Adventure_Game.dir/Player.cpp.o"
+  "/Users/alexstalter/Desktop/Github/Adventure-Game/Room.cpp" "/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles/Adventure_Game.dir/Room.cpp.o"
+  "/Users/alexstalter/Desktop/Github/Adventure-Game/Run.cpp" "/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles/Adventure_Game.dir/Run.cpp.o"
   "/Users/alexstalter/Desktop/Github/Adventure-Game/main.cpp" "/Users/alexstalter/Desktop/Github/Adventure-Game/cmake-build-debug/CMakeFiles/Adventure_Game.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

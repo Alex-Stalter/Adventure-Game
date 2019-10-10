@@ -123,6 +123,114 @@ Adventure_Game/fast:
 	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/build
 .PHONY : Adventure_Game/fast
 
+Map.o: Map.cpp.o
+
+.PHONY : Map.o
+
+# target to build an object file
+Map.cpp.o:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Map.cpp.o
+.PHONY : Map.cpp.o
+
+Map.i: Map.cpp.i
+
+.PHONY : Map.i
+
+# target to preprocess a source file
+Map.cpp.i:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Map.cpp.i
+.PHONY : Map.cpp.i
+
+Map.s: Map.cpp.s
+
+.PHONY : Map.s
+
+# target to generate assembly for a file
+Map.cpp.s:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Map.cpp.s
+.PHONY : Map.cpp.s
+
+Player.o: Player.cpp.o
+
+.PHONY : Player.o
+
+# target to build an object file
+Player.cpp.o:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Player.cpp.o
+.PHONY : Player.cpp.o
+
+Player.i: Player.cpp.i
+
+.PHONY : Player.i
+
+# target to preprocess a source file
+Player.cpp.i:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Player.cpp.i
+.PHONY : Player.cpp.i
+
+Player.s: Player.cpp.s
+
+.PHONY : Player.s
+
+# target to generate assembly for a file
+Player.cpp.s:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Player.cpp.s
+.PHONY : Player.cpp.s
+
+Room.o: Room.cpp.o
+
+.PHONY : Room.o
+
+# target to build an object file
+Room.cpp.o:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Room.cpp.o
+.PHONY : Room.cpp.o
+
+Room.i: Room.cpp.i
+
+.PHONY : Room.i
+
+# target to preprocess a source file
+Room.cpp.i:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Room.cpp.i
+.PHONY : Room.cpp.i
+
+Room.s: Room.cpp.s
+
+.PHONY : Room.s
+
+# target to generate assembly for a file
+Room.cpp.s:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Room.cpp.s
+.PHONY : Room.cpp.s
+
+Run.o: Run.cpp.o
+
+.PHONY : Run.o
+
+# target to build an object file
+Run.cpp.o:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Run.cpp.o
+.PHONY : Run.cpp.o
+
+Run.i: Run.cpp.i
+
+.PHONY : Run.i
+
+# target to preprocess a source file
+Run.cpp.i:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Run.cpp.i
+.PHONY : Run.cpp.i
+
+Run.s: Run.cpp.s
+
+.PHONY : Run.s
+
+# target to generate assembly for a file
+Run.cpp.s:
+	$(MAKE) -f CMakeFiles/Adventure_Game.dir/build.make CMakeFiles/Adventure_Game.dir/Run.cpp.s
+.PHONY : Run.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +267,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Adventure_Game"
+	@echo "... Map.o"
+	@echo "... Map.i"
+	@echo "... Map.s"
+	@echo "... Player.o"
+	@echo "... Player.i"
+	@echo "... Player.s"
+	@echo "... Room.o"
+	@echo "... Room.i"
+	@echo "... Room.s"
+	@echo "... Run.o"
+	@echo "... Run.i"
+	@echo "... Run.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
