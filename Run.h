@@ -10,8 +10,10 @@
 
 class Run {
 public:
-    Run(std::string name);
+    Run();
     ~Run();
+
+    void introStory();
 
 protected:
     std::string name;
